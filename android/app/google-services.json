@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "422435450796",
+    "firebase_url": "https://thuchanh-51b2b-default-rtdb.firebaseio.com",
+    "project_id": "thuchanh-51b2b",
+    "storage_bucket": "thuchanh-51b2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422435450796:android:86aff01f7fe4ddb3675409",
+        "android_client_info": {
+          "package_name": "com.ktgiuaky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Nb5wr9oxmh24QWhF8NkfdXBq-KSS24Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422435450796:android:2b1af12c334d17ce675409",
+        "android_client_info": {
+          "package_name": "com.lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Nb5wr9oxmh24QWhF8NkfdXBq-KSS24Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
